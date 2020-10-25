@@ -1,3 +1,14 @@
-# py
-Repository to store sample python programs for python learning
-Youtube channel https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
+# Part of my life-long learning journey for Data Science 
+
+
+Python,
+Pandas,
+Jupyter,
+Matplotlib,
+Seaborn,
+SQL, 
+Statistics and probability,
+Machine learning,
+Neural Network,
+NLP and 
+Computer Vision
